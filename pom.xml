@@ -3,8 +3,8 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.iar</groupId>
   <artifactId>iar_sdk</artifactId>
-  <version>1.6.0</version>
+  <version>1.7.0</version>
   <name>iar-target</name>
   <url>http://maven.apache.org</url>
-  
+
 </project>
